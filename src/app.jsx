@@ -4,7 +4,7 @@ export default class App extends React.Component {
 	render () {
 		return (
 		<div>
-			This is my GitRepo cool App!
+			This is my New App!
 		</div>
 		);
 	}
